@@ -1,3 +1,4 @@
+// Daniel Peveto
 public class Program {
     public static void main(String[] args) {
         // Create instance of FitByte
